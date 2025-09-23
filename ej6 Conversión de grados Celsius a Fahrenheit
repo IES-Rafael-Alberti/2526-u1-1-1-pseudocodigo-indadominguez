@@ -1,0 +1,11 @@
+Inicio
+
+    Escribe "Introduce los grados en Celsius"
+    Lee celsius
+
+    Fahrenheit = (celsius * 9 / 5) + 32
+
+    Escribe "La temperatura en fahrenheit es: ", Fahrenheit
+
+
+Fin
