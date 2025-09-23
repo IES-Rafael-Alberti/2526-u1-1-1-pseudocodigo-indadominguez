@@ -1,0 +1,8 @@
+Inicio
+
+    resultado = (8 - 4) * 3
+
+    Escribe "El resultado de la operación es: ", resultado
+
+
+Fin 

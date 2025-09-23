@@ -1,0 +1,14 @@
+Inicio
+
+    Escribe "Introduzca un número"
+    Lee num1
+
+    Escribe "Introduzca un número"
+    Lee num2
+
+    Escribe "Introduzca un número"
+    Lee num3
+
+    Escribe "La suma total es: ", num1 + num2 + num3
+
+Fin 
