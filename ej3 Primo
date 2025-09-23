@@ -1,0 +1,22 @@
+Inicio
+
+    Lee N
+    EsPrimo <- Verdadero
+
+    Si N <= 1 entonces
+        Escribe "N no es primo"
+    Sino
+        Para i desde 2 hasta N-1 hacer
+            Si N % i = 0 entonces
+                EsPrimo <- Falso
+            Fin Si
+        Fin Para
+
+        Si EsPrimo = Verdadero entonces
+            Escribe "N es primo"
+        Sino
+            Escribe "N no es primo"
+        Fin Si
+    Fin Si
+
+Fin
