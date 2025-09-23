@@ -1,0 +1,18 @@
+Inicio 
+
+    Escribe "Introduzca el Nº de payasos"
+    Lee numero_payasos
+
+    Escribe "Introduzca el Nº de muñecas"
+    Lee numero_muñecas
+
+    peso_payasos = 112 g
+
+    peso_muñecas = 75 g
+
+
+    peso_total = (peso_payasos * numero_payasos) + (peso_muñecas * numero_muñecas)
+
+    Escribe "El peso total del pedido es: ", peso_total, "gramos"
+
+Fin

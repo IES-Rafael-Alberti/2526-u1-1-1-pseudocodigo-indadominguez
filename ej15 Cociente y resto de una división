@@ -1,0 +1,19 @@
+Inicio
+
+    Escribe "Introduzca un número entero"
+    Lee num1
+
+    Escribe "Introduzca un número entero"
+    Lee num2
+
+    Si num2 != 0
+        cociente = num1 / num2
+        resto = num1 % num2
+
+        Escribe "El cociente de la operación es: ", cociente
+        Escribe "El resto de la operación es: ", resto
+    Sino 
+        Escribe "ERROR!!!, No se puede dividir entre 0."
+
+
+Fin
