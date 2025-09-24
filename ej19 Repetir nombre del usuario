@@ -1,0 +1,13 @@
+Inicio 
+
+    Escribe "Introduzca su nombre por favor: "
+    Lee nombre
+
+    Escribe "Introduzca el número de veces que se repite su nombre: "
+    Lee numero
+
+    Para i en (1, numero) hacer
+        Escribe nombre
+    FinPara
+ 
+Fin
