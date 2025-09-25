@@ -1,0 +1,13 @@
+Inicio
+
+    Escribe "Introduzca un número: "
+    Lee número
+
+    Para i desde 1 hasta número hacer
+        Si número MOD i = 0 Entonces
+            Escribe i
+        FinSi
+    FinPara
+
+
+Fin
