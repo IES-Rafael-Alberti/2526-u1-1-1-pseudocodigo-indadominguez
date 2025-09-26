@@ -1,0 +1,13 @@
+Inicio 
+
+    Lee X
+
+    Si X % 2 = 0 entonces
+        Escribe "X es Par"
+
+    Sino
+        Escribe "X es Impar"
+
+    Fin Si
+
+Fin 

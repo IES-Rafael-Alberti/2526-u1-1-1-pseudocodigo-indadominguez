@@ -1,0 +1,14 @@
+Inicio
+
+    Escribe "Introduzca su correo electrónico: "
+    Lee correo
+
+    partes = dividir correo por "@"
+    nombre_usuario = [0]
+
+    nuevo_correo = nombre_usuario + "@ceu.es"
+
+    Escribe "Nuevo correo:"
+    Escribe nuevo_correo
+
+Fin

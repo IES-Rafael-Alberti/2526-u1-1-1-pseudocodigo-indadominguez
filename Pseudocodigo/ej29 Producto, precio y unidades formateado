@@ -1,0 +1,16 @@
+Inicio 
+
+    Escribe "Introduzca el nombre del producto: "
+    Lee producto
+
+    Escribe "Introduzca el precio unitario del producto"
+    Lee precio
+
+    Escribe "Introduzca el número de unidades del producto"
+    Lee unidades
+
+    coste_total = precio * unidades
+
+    Escribe "El coste total del producto es: ", coste_total, "€"
+
+Fin

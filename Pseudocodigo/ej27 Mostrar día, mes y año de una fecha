@@ -1,0 +1,14 @@
+Inicio
+
+    Escribe "Introduzca su  fecha de nacimiento en formato dd/mm/aaaa: "
+    Lee fecha
+
+    día = Subcadena(fecha, 1, 2)
+    mes = Subcadena(fecha, 4, 2)
+    año = Subcadena(fecha, 7, 4)
+
+    Escribe "Día", día
+    Escribe "Mes", mes
+    Escribe "Año", año
+
+Fin
