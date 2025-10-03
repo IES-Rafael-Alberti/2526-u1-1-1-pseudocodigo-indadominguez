@@ -1,0 +1,10 @@
+Inicio
+
+    Escribe "Introduzca su nombre completo: "
+    Lee nombre
+
+    Escribe nombre en minúsculas
+    Escribe nombre en mayúsculas 
+    Escribe nombre con mayúscula inicial 
+
+Fin

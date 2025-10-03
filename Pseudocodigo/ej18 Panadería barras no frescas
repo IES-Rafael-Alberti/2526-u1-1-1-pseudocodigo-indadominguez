@@ -1,0 +1,17 @@
+Inicio
+
+    Escribe "Introduzca el Nº de barras no frescas: "
+    Lee barras_no_frescas
+
+    precio_barras = 3.49
+    descuento = 0.6
+
+    precio_descuento = precio_barras * (1 - descuento)
+    coste_total = barras_no_frescas * precio_descuento
+    descuento_total = barras_no_frescas * precio_barras * descuento
+
+    Escribe "Precio habitual por barra es: ", precio_barras, "€"
+    Escribe "Precio descontado es: ", precio_descuento, "€"
+    Escribe "Coste total es: ", coste_total, "€"
+
+Fin

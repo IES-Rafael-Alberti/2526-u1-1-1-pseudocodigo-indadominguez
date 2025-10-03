@@ -1,0 +1,13 @@
+Inicio
+
+    Escribe "Introduzca precio del artículo sin iva:"
+    Lee precio_sin_iva
+
+    Escribe "Introduzca el porcentaje de iva:"
+    Lee iva
+
+    precio_final = precio_sin_iva + ((precio_sin_iva * iva) / 100)
+
+    Escribe "el precio final del artículo es:", precio_final
+
+Fin

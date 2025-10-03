@@ -1,0 +1,14 @@
+Inicio
+
+    Escribe "Introduzca una frase: "
+    Lee frase
+
+    Escribe "Introduzca una vocal: "
+    Lee vocal
+
+    frase_modificada = remplazar todas las operaciones de vocal a vocal en mayúscula
+
+    Escribe "Frase modificada: "
+    Escribe frase_modificada
+
+Fin

@@ -1,0 +1,14 @@
+Inicio
+
+    Escribe "Introduzca el precio en euros: "
+    Lee precio
+
+    euros = precio // 1
+    centimos = (precio - euros) * 100
+
+    centimos = centimos // 1
+
+    Escribe "Euros: ", euros
+    Escribe "Centimos: ", centimos
+
+Fin

@@ -1,0 +1,12 @@
+Inicio
+
+    Escribe "Introduzca su numero de teléfono en formato +34-número-extensión: "
+    Lee teléfono
+
+    partes = dividir telefono por el caracter "-"
+    numero_principal = partes[1]
+
+    Escribe "Número sin prefijo y sin extensión: "
+    Escribe numero_principal
+
+Fin
