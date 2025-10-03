@@ -8,7 +8,7 @@ def pedir_numero(mensaje: str) -> int:
     return int(numero)
 
 
-def calcular_primo(num: int) -> str:
+def calcular_par(num: int) -> str:
     
     if num % 2 == 0:
         return(f"El número {num} es PAR. ")
