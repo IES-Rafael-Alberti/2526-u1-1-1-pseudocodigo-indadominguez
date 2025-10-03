@@ -22,7 +22,7 @@ def mostrar_resultado(mensaje: str):
 
 def main():
     num = pedir_numero("Introduzca un número entero:")
-    resultado = calcular_primo(num)
+    resultado = calcular_par(num)
     mostrar_resultado(resultado)
 
 if __name__ == "__main__":
