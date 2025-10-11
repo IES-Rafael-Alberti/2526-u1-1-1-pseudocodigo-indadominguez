@@ -1,0 +1,11 @@
+Inicio
+
+    Escribe "Introduzca una frase: "
+    Lee frase
+
+    frase_invertida = frase invertida (de último caracter al primero)
+
+    Escribe "frase invertida"
+    Escribr frase_invertida
+
+Fin

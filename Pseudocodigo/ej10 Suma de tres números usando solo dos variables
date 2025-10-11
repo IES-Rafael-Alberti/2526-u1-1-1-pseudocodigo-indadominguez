@@ -1,0 +1,22 @@
+Inicio
+
+    Escribe "Introduzca un número"
+    Lee num
+
+
+    suma = num
+
+    Escribe "Introduzca un número"
+    Lee num
+
+    suma = suma + num
+
+    Escribe "Introduzca un número"
+    Lee num
+
+    suma = suma + num
+
+    Escribe "La suma total es: ", suma
+
+
+Fin

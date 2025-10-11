@@ -1,0 +1,9 @@
+Inicio 
+
+    Escribe "Escriba su nombre:"
+
+    Leer nombre
+
+    Escribe "Hola", nombre, "."
+
+Fin 

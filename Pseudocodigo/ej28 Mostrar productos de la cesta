@@ -1,0 +1,14 @@
+Inicio
+
+    Escribe "Introduzca productos en orden y con coma: "
+    Lee productos
+
+    productos_coma = Separar(productos, ",")
+
+    Para cada producto en productos_coma hacer
+        producto = QuitarEspacio(producto)
+        Escribe producto
+
+    Fin Para
+
+Fin
