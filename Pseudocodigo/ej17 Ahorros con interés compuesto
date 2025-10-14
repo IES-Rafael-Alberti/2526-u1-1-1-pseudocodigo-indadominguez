@@ -1,0 +1,18 @@
+Inicio
+
+    Escribe "Introduzca su salario anual: "
+    Lee salario_inicial
+
+    interes = 0.04
+
+    saldo_año1 = salario_inicial * (1 + interes)
+    saldo_año2 = salario_año1 * (1 + interes)
+    saldo_año3 = salario_año2 * (1 + interes)
+
+
+    Escribe "Su saldo del primer año es: ", saldo_año1
+    Escribe "Su saldo del segundo año es: ", saldo_año2
+    Escribe "Su saldo del tercer año es: ", saldo_año3
+
+
+Fin

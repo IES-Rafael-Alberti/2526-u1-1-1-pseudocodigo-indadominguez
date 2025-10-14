@@ -1,0 +1,15 @@
+Inicio
+
+    IVA = 10
+
+    Escribe "Introduzca el precio final del artículo"
+    Lee precio_final
+
+    precio_sin_iva = precio_final / (1 + IVA / 100)
+    iva_pagado = precio_final - precio_sin_iva
+
+    Escribe "El precio sin IVA es: ", precio_sin_iva
+    Escribe "El IVA pagado es", iva_pagado
+    
+
+Fin 

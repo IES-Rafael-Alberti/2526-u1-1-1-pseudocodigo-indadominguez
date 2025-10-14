@@ -1,0 +1,12 @@
+Inicio
+
+    Escribe "Introduzca su nombre: "
+    Lee nombre
+
+    Nombre = nombre en mayúsculas
+    Escribe nombre
+
+    letras = numero de letras, sin contar espacios
+    Escribe letras
+
+Fin

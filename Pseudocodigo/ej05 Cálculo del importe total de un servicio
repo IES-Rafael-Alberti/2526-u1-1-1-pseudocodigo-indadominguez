@@ -1,0 +1,12 @@
+Inicio
+
+    Escribe "Ingrese las horas trabajadas:"
+    Leer horas
+    Escribe "Ingrese el precio por hora:"
+    Leer coste_por_hora
+
+    importe_total = horas * coste_por_hora
+
+    Escribe "El importe total es:", importe_total
+
+Fin

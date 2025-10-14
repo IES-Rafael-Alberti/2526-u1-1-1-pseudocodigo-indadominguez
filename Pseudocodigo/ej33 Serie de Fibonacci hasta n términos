@@ -1,0 +1,24 @@
+Inicio
+
+    Escribe "Ingrese la cantidad de términos (n ≥ 1):"
+    Lee n
+
+    Si n >= 1 entonces
+
+        x = 0
+        y = 1
+
+        Escribe "Serie de Fibonacci:"
+
+        Para i en (1...n) hacer
+            Escribe x
+            siguiente = x + y
+            x = y
+            y = siguiente
+        FinPara
+
+    Sino
+        Escribe "El valor de n debe ser mayor o igual a 1."
+    FinSi
+
+Fin

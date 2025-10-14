@@ -1,0 +1,14 @@
+Inicio
+
+    Escribe "Introduzca un número entero positivo:"
+    Lee número
+
+    Si número > 0
+        suma = n(n + 1) / 2
+        Escribe "La suma de los", n, "primeros enteros positivos es: ", suma
+    Sino
+        Escribe "El número debe de ser entero positivo"
+
+
+Fin
+

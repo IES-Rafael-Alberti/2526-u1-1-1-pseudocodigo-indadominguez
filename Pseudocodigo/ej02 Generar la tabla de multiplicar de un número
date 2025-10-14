@@ -1,0 +1,14 @@
+Inicio
+
+    Lee X
+
+    i = 1
+
+    Mientras i <= 10 entonces
+        Escribe X, " * ", i, " = ", X * i
+
+    i = i +1
+
+    Fin Mientras
+
+Fin

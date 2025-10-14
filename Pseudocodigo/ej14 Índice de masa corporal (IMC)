@@ -1,0 +1,13 @@
+Inicio
+
+    Escribe "Introduzca tu peso en kilogramos"
+    Lee peso
+
+    Escribe "Introduzca tu altura en metros"
+    Lee altura
+
+    IMC = peso / (altura * altura)
+
+    Escribe "Su Índice de masa corporal es: ", IMC
+
+Fin 

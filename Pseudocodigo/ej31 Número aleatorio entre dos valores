@@ -1,0 +1,14 @@
+Inicio
+
+    Escribe "Introduzca el valor mínimo: "
+    Lee mínimo
+
+    Escribe "Introduzca el valor máximo: "
+    Lee máximo
+
+    aleatorio = GenerarNúmeroAleatorio(min, max)   
+
+    Escribe "El número aleatorio generado entre", min, "y", max, "es:", aleatorio
+
+
+Fin 

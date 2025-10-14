@@ -1,0 +1,18 @@
+Inicio
+
+    Escribe "Introduzca el valor del lado a:"
+    Lee a
+
+    Escribe "Introduzca el valor del lado b:"
+    Lee b
+
+    Escribe "Introduzca el valor del lado c:"
+    Lee c
+
+    s = (a + b + c) / 2 // semiperímetro
+
+    área_triángulo = √(s(s-a)(s-b)(s-c))
+
+    Escribe "El área del triángulo es: ", área_triángulo, "u"
+
+Fin
